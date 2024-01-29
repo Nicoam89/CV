@@ -49,8 +49,14 @@
 
 .texto{
     color:black;
+    font-weight: lighter;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-left: 20px;
     padding-right: 30px;
     padding-bottom: 8px;
+}
+
+
+.listas{
+    list-style-type: square
 }
