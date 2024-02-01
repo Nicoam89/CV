@@ -25,10 +25,10 @@
 .foto{
     
         float: right;
-        border: 5px solid #333;
-        width: 300px;
-        height: 300px;
-    }
+        width: 364px;
+        height: 336px;
+        padding-top: 20px;
+        }
 
 
 .subtitulo{
