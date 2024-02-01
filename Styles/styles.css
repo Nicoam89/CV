@@ -26,6 +26,8 @@
     
         float: right;
         border: 5px solid #333;
+        width: 300px;
+        height: 300px;
     }
 
 
@@ -114,8 +116,8 @@ transition: .3s all ease-in;
 }
 ul.acorh li li a {
 padding: 10px 10px 10px 40px;
-background: #999;
-color: #000;
+background: rgb(143, 222, 143);
+color: black;
 font-size: 16px;
 border: 0;
 border-bottom: 1px solid #ccc;
