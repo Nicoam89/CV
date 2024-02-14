@@ -30,7 +30,7 @@
         padding-top: 20px;
         }
 
-
+      
 .subtitulo{
     background-color: darkgreen;
     color:white;
@@ -65,6 +65,7 @@
     padding-right: 30px;
 }
 
+
 .texto{
     color:black;
     font-weight: lighter;
@@ -74,6 +75,14 @@
     padding-bottom: 8px;
 }
 
+.resumen{
+    color:black;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin: 0 auto;  
+}
 
 .listas{
     list-style-type: none
