@@ -1,0 +1,29 @@
+.titulo{
+    background-color: rgb(143, 222, 143);
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+
+}
+
+.foto{
+    
+    float: right;
+    width: 364px;
+    height: 336px;
+    padding-top: 20px;
+    }
+
+    .alinear-foto{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: stretch;
+        align-content: stretch;
+    }
+    
