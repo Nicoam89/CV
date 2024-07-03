@@ -172,4 +172,8 @@ a:visited {
 /* formato subititulo*/
 .subtitulo {
   text-align: center;
+}
+
+li {
+  list-style: none;
 }/*# sourceMappingURL=styles.css.map */
