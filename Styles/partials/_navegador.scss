@@ -1,0 +1,25 @@
+/* Formato Navegador*/
+
+.a {
+    text-align: center;
+    padding: 5%;
+  }
+
+
+  .text-muted {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+  }
+
+  .item-nav{
+    padding: 3%;
+
+
+  }
+  .item-nav:hover {
+    background-color: $segundocolor;
+  }
