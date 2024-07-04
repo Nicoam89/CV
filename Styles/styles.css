@@ -176,4 +176,13 @@ a:visited {
 
 li {
   list-style: none;
+}
+
+.item-ed {
+  width: 30rem;
+  padding: 3%;
+}
+
+.cert-edu {
+  width: 30rem;
 }/*# sourceMappingURL=styles.css.map */
