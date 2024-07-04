@@ -107,6 +107,7 @@ a:visited {
   text-decoration: none;
 }
 
+/* Formato Menu Index*/
 .menu-index {
   text-align: center;
 }
@@ -138,6 +139,10 @@ a:visited {
   width: 15rem;
   text-align: center;
   padding: 3%;
+}
+
+.menu-item:hover {
+  background-color: rgb(143, 222, 143);
 }
 
 /* Formato Navegador*/
